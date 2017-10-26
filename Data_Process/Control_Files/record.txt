@@ -1,0 +1,459 @@
+running py2exe
+*** searching for required modules ***
+*** parsing results ***
+creating python loader for extension '_elementtree' (c:\Python27\DLLs\_elementtree.pyd -> _elementtree.pyd)
+creating python loader for extension 'select' (c:\Python27\DLLs\select.pyd -> select.pyd)
+creating python loader for extension 'unicodedata' (c:\Python27\DLLs\unicodedata.pyd -> unicodedata.pyd)
+creating python loader for extension 'wx._controls_' (c:\Python27\lib\site-packages\wx-3.0-msw\wx\_controls_.pyd -> wx._controls_.pyd)
+creating python loader for extension 'wx._windows_' (c:\Python27\lib\site-packages\wx-3.0-msw\wx\_windows_.pyd -> wx._windows_.pyd)
+creating python loader for extension '_hashlib' (c:\Python27\DLLs\_hashlib.pyd -> _hashlib.pyd)
+creating python loader for extension 'bz2' (c:\Python27\DLLs\bz2.pyd -> bz2.pyd)
+creating python loader for extension '_ssl' (c:\Python27\DLLs\_ssl.pyd -> _ssl.pyd)
+creating python loader for extension 'wx._misc_' (c:\Python27\lib\site-packages\wx-3.0-msw\wx\_misc_.pyd -> wx._misc_.pyd)
+creating python loader for extension 'wx._gdi_' (c:\Python27\lib\site-packages\wx-3.0-msw\wx\_gdi_.pyd -> wx._gdi_.pyd)
+creating python loader for extension 'pyexpat' (c:\Python27\DLLs\pyexpat.pyd -> pyexpat.pyd)
+creating python loader for extension 'wx._core_' (c:\Python27\lib\site-packages\wx-3.0-msw\wx\_core_.pyd -> wx._core_.pyd)
+creating python loader for extension '_socket' (c:\Python27\DLLs\_socket.pyd -> _socket.pyd)
+*** finding dlls needed ***
+*** create binaries ***
+*** byte compile python files ***
+skipping byte-compilation of c:\Python27\lib\StringIO.py to StringIO.pyc
+skipping byte-compilation of c:\Python27\lib\UserDict.py to UserDict.pyc
+skipping byte-compilation of c:\Python27\lib\__future__.py to __future__.pyc
+skipping byte-compilation of c:\Python27\lib\_abcoll.py to _abcoll.pyc
+skipping byte-compilation of c:\Python27\lib\_osx_support.py to _osx_support.pyc
+skipping byte-compilation of c:\Python27\lib\_strptime.py to _strptime.pyc
+skipping byte-compilation of c:\Python27\lib\_threading_local.py to _threading_local.pyc
+skipping byte-compilation of c:\Python27\lib\_weakrefset.py to _weakrefset.pyc
+skipping byte-compilation of c:\Python27\lib\abc.py to abc.pyc
+skipping byte-compilation of c:\Python27\lib\atexit.py to atexit.pyc
+skipping byte-compilation of c:\Python27\lib\base64.py to base64.pyc
+skipping byte-compilation of c:\Python27\lib\bdb.py to bdb.pyc
+skipping byte-compilation of c:\Python27\lib\calendar.py to calendar.pyc
+skipping byte-compilation of c:\Python27\lib\cmd.py to cmd.pyc
+skipping byte-compilation of c:\Python27\lib\codecs.py to codecs.pyc
+skipping byte-compilation of c:\Python27\lib\collections.py to collections.pyc
+skipping byte-compilation of c:\Python27\lib\contextlib.py to contextlib.pyc
+skipping byte-compilation of c:\Python27\lib\copy.py to copy.pyc
+skipping byte-compilation of c:\Python27\lib\copy_reg.py to copy_reg.pyc
+skipping byte-compilation of c:\Python27\lib\decimal.py to decimal.pyc
+skipping byte-compilation of c:\Python27\lib\difflib.py to difflib.pyc
+skipping byte-compilation of c:\Python27\lib\dis.py to dis.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\__init__.py to distutils\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\debug.py to distutils\debug.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\errors.py to distutils\errors.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\log.py to distutils\log.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\spawn.py to distutils\spawn.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\sysconfig.py to distutils\sysconfig.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\text_file.py to distutils\text_file.pyc
+skipping byte-compilation of c:\Python27\lib\doctest.py to doctest.pyc
+skipping byte-compilation of c:\Python27\lib\dummy_thread.py to dummy_thread.pyc
+skipping byte-compilation of c:\Python27\lib\email\__init__.py to email\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\email\_parseaddr.py to email\_parseaddr.pyc
+skipping byte-compilation of c:\Python27\lib\email\base64mime.py to email\base64mime.pyc
+skipping byte-compilation of c:\Python27\lib\email\charset.py to email\charset.pyc
+skipping byte-compilation of c:\Python27\lib\email\encoders.py to email\encoders.pyc
+skipping byte-compilation of c:\Python27\lib\email\errors.py to email\errors.pyc
+skipping byte-compilation of c:\Python27\lib\email\feedparser.py to email\feedparser.pyc
+skipping byte-compilation of c:\Python27\lib\email\generator.py to email\generator.pyc
+skipping byte-compilation of c:\Python27\lib\email\header.py to email\header.pyc
+skipping byte-compilation of c:\Python27\lib\email\iterators.py to email\iterators.pyc
+skipping byte-compilation of c:\Python27\lib\email\message.py to email\message.pyc
+skipping byte-compilation of c:\Python27\lib\email\mime\__init__.py to email\mime\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\email\parser.py to email\parser.pyc
+skipping byte-compilation of c:\Python27\lib\email\quoprimime.py to email\quoprimime.pyc
+skipping byte-compilation of c:\Python27\lib\email\utils.py to email\utils.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\__init__.py to encodings\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\aliases.py to encodings\aliases.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\ascii.py to encodings\ascii.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\base64_codec.py to encodings\base64_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\big5.py to encodings\big5.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\big5hkscs.py to encodings\big5hkscs.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\bz2_codec.py to encodings\bz2_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\charmap.py to encodings\charmap.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp037.py to encodings\cp037.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1006.py to encodings\cp1006.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1026.py to encodings\cp1026.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1140.py to encodings\cp1140.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1250.py to encodings\cp1250.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1251.py to encodings\cp1251.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1252.py to encodings\cp1252.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1253.py to encodings\cp1253.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1254.py to encodings\cp1254.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1255.py to encodings\cp1255.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1256.py to encodings\cp1256.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1257.py to encodings\cp1257.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1258.py to encodings\cp1258.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp424.py to encodings\cp424.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp437.py to encodings\cp437.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp500.py to encodings\cp500.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp720.py to encodings\cp720.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp737.py to encodings\cp737.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp775.py to encodings\cp775.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp850.py to encodings\cp850.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp852.py to encodings\cp852.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp855.py to encodings\cp855.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp856.py to encodings\cp856.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp857.py to encodings\cp857.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp858.py to encodings\cp858.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp860.py to encodings\cp860.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp861.py to encodings\cp861.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp862.py to encodings\cp862.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp863.py to encodings\cp863.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp864.py to encodings\cp864.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp865.py to encodings\cp865.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp866.py to encodings\cp866.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp869.py to encodings\cp869.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp874.py to encodings\cp874.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp875.py to encodings\cp875.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp932.py to encodings\cp932.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp949.py to encodings\cp949.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp950.py to encodings\cp950.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jis_2004.py to encodings\euc_jis_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jisx0213.py to encodings\euc_jisx0213.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jp.py to encodings\euc_jp.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_kr.py to encodings\euc_kr.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gb18030.py to encodings\gb18030.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gb2312.py to encodings\gb2312.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gbk.py to encodings\gbk.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hex_codec.py to encodings\hex_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hp_roman8.py to encodings\hp_roman8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hz.py to encodings\hz.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\idna.py to encodings\idna.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp.py to encodings\iso2022_jp.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_1.py to encodings\iso2022_jp_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_2.py to encodings\iso2022_jp_2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_2004.py to encodings\iso2022_jp_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_3.py to encodings\iso2022_jp_3.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_ext.py to encodings\iso2022_jp_ext.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_kr.py to encodings\iso2022_kr.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_1.py to encodings\iso8859_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_10.py to encodings\iso8859_10.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_11.py to encodings\iso8859_11.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_13.py to encodings\iso8859_13.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_14.py to encodings\iso8859_14.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_15.py to encodings\iso8859_15.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_16.py to encodings\iso8859_16.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_2.py to encodings\iso8859_2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_3.py to encodings\iso8859_3.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_4.py to encodings\iso8859_4.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_5.py to encodings\iso8859_5.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_6.py to encodings\iso8859_6.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_7.py to encodings\iso8859_7.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_8.py to encodings\iso8859_8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_9.py to encodings\iso8859_9.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\johab.py to encodings\johab.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\koi8_r.py to encodings\koi8_r.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\koi8_u.py to encodings\koi8_u.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\latin_1.py to encodings\latin_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_arabic.py to encodings\mac_arabic.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_centeuro.py to encodings\mac_centeuro.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_croatian.py to encodings\mac_croatian.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_cyrillic.py to encodings\mac_cyrillic.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_farsi.py to encodings\mac_farsi.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_greek.py to encodings\mac_greek.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_iceland.py to encodings\mac_iceland.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_latin2.py to encodings\mac_latin2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_roman.py to encodings\mac_roman.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_romanian.py to encodings\mac_romanian.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_turkish.py to encodings\mac_turkish.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mbcs.py to encodings\mbcs.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\palmos.py to encodings\palmos.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\ptcp154.py to encodings\ptcp154.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\punycode.py to encodings\punycode.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\quopri_codec.py to encodings\quopri_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\raw_unicode_escape.py to encodings\raw_unicode_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\rot_13.py to encodings\rot_13.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jis.py to encodings\shift_jis.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jis_2004.py to encodings\shift_jis_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jisx0213.py to encodings\shift_jisx0213.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\string_escape.py to encodings\string_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\tis_620.py to encodings\tis_620.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\undefined.py to encodings\undefined.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\unicode_escape.py to encodings\unicode_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\unicode_internal.py to encodings\unicode_internal.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16.py to encodings\utf_16.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16_be.py to encodings\utf_16_be.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16_le.py to encodings\utf_16_le.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32.py to encodings\utf_32.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32_be.py to encodings\utf_32_be.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32_le.py to encodings\utf_32_le.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_7.py to encodings\utf_7.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_8.py to encodings\utf_8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_8_sig.py to encodings\utf_8_sig.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\uu_codec.py to encodings\uu_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\zlib_codec.py to encodings\zlib_codec.pyc
+skipping byte-compilation of c:\Python27\lib\fnmatch.py to fnmatch.pyc
+skipping byte-compilation of c:\Python27\lib\ftplib.py to ftplib.pyc
+skipping byte-compilation of c:\Python27\lib\functools.py to functools.pyc
+skipping byte-compilation of c:\Python27\lib\genericpath.py to genericpath.pyc
+skipping byte-compilation of c:\Python27\lib\getopt.py to getopt.pyc
+skipping byte-compilation of c:\Python27\lib\getpass.py to getpass.pyc
+skipping byte-compilation of c:\Python27\lib\gettext.py to gettext.pyc
+skipping byte-compilation of c:\Python27\lib\gzip.py to gzip.pyc
+skipping byte-compilation of c:\Python27\lib\hashlib.py to hashlib.pyc
+skipping byte-compilation of c:\Python27\lib\heapq.py to heapq.pyc
+skipping byte-compilation of c:\Python27\lib\httplib.py to httplib.pyc
+skipping byte-compilation of c:\Python27\lib\inspect.py to inspect.pyc
+skipping byte-compilation of c:\Python27\lib\io.py to io.pyc
+skipping byte-compilation of c:\Python27\lib\keyword.py to keyword.pyc
+skipping byte-compilation of c:\Python27\lib\linecache.py to linecache.pyc
+skipping byte-compilation of c:\Python27\lib\locale.py to locale.pyc
+skipping byte-compilation of c:\Python27\lib\logging\__init__.py to logging\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\mimetools.py to mimetools.pyc
+skipping byte-compilation of c:\Python27\lib\mimetypes.py to mimetypes.pyc
+skipping byte-compilation of c:\Python27\lib\new.py to new.pyc
+skipping byte-compilation of c:\Python27\lib\ntpath.py to ntpath.pyc
+skipping byte-compilation of c:\Python27\lib\nturl2path.py to nturl2path.pyc
+skipping byte-compilation of c:\Python27\lib\numbers.py to numbers.pyc
+skipping byte-compilation of c:\Python27\lib\opcode.py to opcode.pyc
+skipping byte-compilation of c:\Python27\lib\optparse.py to optparse.pyc
+skipping byte-compilation of c:\Python27\lib\os.py to os.pyc
+skipping byte-compilation of c:\Python27\lib\os2emxpath.py to os2emxpath.pyc
+skipping byte-compilation of c:\Python27\lib\pdb.py to pdb.pyc
+skipping byte-compilation of c:\Python27\lib\pickle.py to pickle.pyc
+skipping byte-compilation of c:\Python27\lib\posixpath.py to posixpath.pyc
+skipping byte-compilation of c:\Python27\lib\pprint.py to pprint.pyc
+skipping byte-compilation of c:\Python27\lib\py_compile.py to py_compile.pyc
+skipping byte-compilation of c:\Python27\lib\quopri.py to quopri.pyc
+skipping byte-compilation of c:\Python27\lib\random.py to random.pyc
+skipping byte-compilation of c:\Python27\lib\re.py to re.pyc
+skipping byte-compilation of c:\Python27\lib\repr.py to repr.pyc
+skipping byte-compilation of c:\Python27\lib\rfc822.py to rfc822.pyc
+skipping byte-compilation of c:\Python27\lib\shlex.py to shlex.pyc
+skipping byte-compilation of c:\Python27\lib\shutil.py to shutil.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\et_xmlfile-1.0.1-py2.7.egg\et_xmlfile\__init__.py to et_xmlfile\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\et_xmlfile-1.0.1-py2.7.egg\et_xmlfile\xmlfile.py to et_xmlfile\xmlfile.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\__about__.py to openpyxl\__about__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\__init__.py to openpyxl\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\cell\__init__.py to openpyxl\cell\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\cell\cell.py to openpyxl\cell\cell.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\cell\read_only.py to openpyxl\cell\read_only.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\_3d.py to openpyxl\chart\_3d.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\__init__.py to openpyxl\chart\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\_chart.py to openpyxl\chart\_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\area_chart.py to openpyxl\chart\area_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\axis.py to openpyxl\chart\axis.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\bar_chart.py to openpyxl\chart\bar_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\bubble_chart.py to openpyxl\chart\bubble_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\chartspace.py to openpyxl\chart\chartspace.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\data_source.py to openpyxl\chart\data_source.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\descriptors.py to openpyxl\chart\descriptors.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\error_bar.py to openpyxl\chart\error_bar.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\label.py to openpyxl\chart\label.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\layout.py to openpyxl\chart\layout.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\legend.py to openpyxl\chart\legend.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\line_chart.py to openpyxl\chart\line_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\marker.py to openpyxl\chart\marker.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\picture.py to openpyxl\chart\picture.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\pie_chart.py to openpyxl\chart\pie_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\radar_chart.py to openpyxl\chart\radar_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\reference.py to openpyxl\chart\reference.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\scatter_chart.py to openpyxl\chart\scatter_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\series.py to openpyxl\chart\series.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\series_factory.py to openpyxl\chart\series_factory.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\shapes.py to openpyxl\chart\shapes.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\stock_chart.py to openpyxl\chart\stock_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\surface_chart.py to openpyxl\chart\surface_chart.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\text.py to openpyxl\chart\text.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\title.py to openpyxl\chart\title.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\trendline.py to openpyxl\chart\trendline.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chart\updown_bars.py to openpyxl\chart\updown_bars.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\__init__.py to openpyxl\chartsheet\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\chartsheet.py to openpyxl\chartsheet\chartsheet.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\custom.py to openpyxl\chartsheet\custom.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\properties.py to openpyxl\chartsheet\properties.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\protection.py to openpyxl\chartsheet\protection.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\publish.py to openpyxl\chartsheet\publish.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\relation.py to openpyxl\chartsheet\relation.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\chartsheet\views.py to openpyxl\chartsheet\views.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\comments\__init__.py to openpyxl\comments\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\comments\comments.py to openpyxl\comments\comments.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\compat\__init__.py to openpyxl\compat\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\compat\functools.py to openpyxl\compat\functools.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\compat\itertools.py to openpyxl\compat\itertools.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\compat\numbers.py to openpyxl\compat\numbers.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\compat\odict.py to openpyxl\compat\odict.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\compat\strings.py to openpyxl\compat\strings.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\__init__.py to openpyxl\descriptors\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\base.py to openpyxl\descriptors\base.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\excel.py to openpyxl\descriptors\excel.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\namespace.py to openpyxl\descriptors\namespace.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\nested.py to openpyxl\descriptors\nested.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\sequence.py to openpyxl\descriptors\sequence.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\descriptors\serialisable.py to openpyxl\descriptors\serialisable.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\__init__.py to openpyxl\drawing\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\colors.py to openpyxl\drawing\colors.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\drawing.py to openpyxl\drawing\drawing.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\effect.py to openpyxl\drawing\effect.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\fill.py to openpyxl\drawing\fill.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\graphic.py to openpyxl\drawing\graphic.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\image.py to openpyxl\drawing\image.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\line.py to openpyxl\drawing\line.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\shapes.py to openpyxl\drawing\shapes.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\spreadsheet_drawing.py to openpyxl\drawing\spreadsheet_drawing.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\drawing\text.py to openpyxl\drawing\text.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\formatting\__init__.py to openpyxl\formatting\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\formatting\formatting.py to openpyxl\formatting\formatting.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\formatting\rule.py to openpyxl\formatting\rule.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\formula\__init__.py to openpyxl\formula\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\formula\tokenizer.py to openpyxl\formula\tokenizer.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\formula\translate.py to openpyxl\formula\translate.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\packaging\__init__.py to openpyxl\packaging\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\packaging\manifest.py to openpyxl\packaging\manifest.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\packaging\relationship.py to openpyxl\packaging\relationship.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\__init__.py to openpyxl\reader\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\comments.py to openpyxl\reader\comments.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\excel.py to openpyxl\reader\excel.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\strings.py to openpyxl\reader\strings.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\style.py to openpyxl\reader\style.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\workbook.py to openpyxl\reader\workbook.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\reader\worksheet.py to openpyxl\reader\worksheet.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\__init__.py to openpyxl\styles\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\alignment.py to openpyxl\styles\alignment.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\borders.py to openpyxl\styles\borders.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\colors.py to openpyxl\styles\colors.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\differential.py to openpyxl\styles\differential.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\fills.py to openpyxl\styles\fills.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\fonts.py to openpyxl\styles\fonts.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\hashable.py to openpyxl\styles\hashable.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\named_styles.py to openpyxl\styles\named_styles.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\numbers.py to openpyxl\styles\numbers.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\protection.py to openpyxl\styles\protection.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\proxy.py to openpyxl\styles\proxy.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\styles\styleable.py to openpyxl\styles\styleable.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\tests\__init__.py to openpyxl\tests\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\__init__.py to openpyxl\utils\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\bound_dictionary.py to openpyxl\utils\bound_dictionary.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\datetime.py to openpyxl\utils\datetime.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\exceptions.py to openpyxl\utils\exceptions.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\formulas.py to openpyxl\utils\formulas.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\indexed_list.py to openpyxl\utils\indexed_list.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\utils\units.py to openpyxl\utils\units.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\__init__.py to openpyxl\workbook\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\child.py to openpyxl\workbook\child.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\names\__init__.py to openpyxl\workbook\names\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\names\external.py to openpyxl\workbook\names\external.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\names\named_range.py to openpyxl\workbook\names\named_range.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\properties.py to openpyxl\workbook\properties.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\workbook\workbook.py to openpyxl\workbook\workbook.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\__init__.py to openpyxl\worksheet\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\datavalidation.py to openpyxl\worksheet\datavalidation.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\dimensions.py to openpyxl\worksheet\dimensions.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\drawing.py to openpyxl\worksheet\drawing.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\filters.py to openpyxl\worksheet\filters.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\header_footer.py to openpyxl\worksheet\header_footer.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\hyperlink.py to openpyxl\worksheet\hyperlink.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\page.py to openpyxl\worksheet\page.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\pagebreak.py to openpyxl\worksheet\pagebreak.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\properties.py to openpyxl\worksheet\properties.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\protection.py to openpyxl\worksheet\protection.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\read_only.py to openpyxl\worksheet\read_only.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\related.py to openpyxl\worksheet\related.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\views.py to openpyxl\worksheet\views.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\worksheet\worksheet.py to openpyxl\worksheet\worksheet.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\__init__.py to openpyxl\writer\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\comments.py to openpyxl\writer\comments.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\etree_worksheet.py to openpyxl\writer\etree_worksheet.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\excel.py to openpyxl\writer\excel.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\lxml_worksheet.py to openpyxl\writer\lxml_worksheet.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\relations.py to openpyxl\writer\relations.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\strings.py to openpyxl\writer\strings.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\styles.py to openpyxl\writer\styles.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\theme.py to openpyxl\writer\theme.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\workbook.py to openpyxl\writer\workbook.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\worksheet.py to openpyxl\writer\worksheet.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\writer\write_only.py to openpyxl\writer\write_only.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\xml\__init__.py to openpyxl\xml\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\xml\constants.py to openpyxl\xml\constants.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\xml\functions.py to openpyxl\xml\functions.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\openpyxl-2.4.0-py2.7.egg\openpyxl\xml\namespace.py to openpyxl\xml\namespace.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\__init__.py to wx\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\__version__.py to wx\__version__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\_controls.py to wx\_controls.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\_core.py to wx\_core.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\_gdi.py to wx\_gdi.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\_misc.py to wx\_misc.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\wx-3.0-msw\wx\_windows.py to wx\_windows.pyc
+skipping byte-compilation of c:\Python27\lib\socket.py to socket.pyc
+skipping byte-compilation of c:\Python27\lib\sre.py to sre.pyc
+skipping byte-compilation of c:\Python27\lib\sre_compile.py to sre_compile.pyc
+skipping byte-compilation of c:\Python27\lib\sre_constants.py to sre_constants.pyc
+skipping byte-compilation of c:\Python27\lib\sre_parse.py to sre_parse.pyc
+skipping byte-compilation of c:\Python27\lib\ssl.py to ssl.pyc
+skipping byte-compilation of c:\Python27\lib\stat.py to stat.pyc
+skipping byte-compilation of c:\Python27\lib\string.py to string.pyc
+skipping byte-compilation of c:\Python27\lib\stringprep.py to stringprep.pyc
+skipping byte-compilation of c:\Python27\lib\struct.py to struct.pyc
+skipping byte-compilation of c:\Python27\lib\subprocess.py to subprocess.pyc
+skipping byte-compilation of c:\Python27\lib\tarfile.py to tarfile.pyc
+skipping byte-compilation of c:\Python27\lib\tempfile.py to tempfile.pyc
+skipping byte-compilation of c:\Python27\lib\textwrap.py to textwrap.pyc
+skipping byte-compilation of c:\Python27\lib\threading.py to threading.pyc
+skipping byte-compilation of c:\Python27\lib\token.py to token.pyc
+skipping byte-compilation of c:\Python27\lib\tokenize.py to tokenize.pyc
+skipping byte-compilation of c:\Python27\lib\traceback.py to traceback.pyc
+skipping byte-compilation of c:\Python27\lib\types.py to types.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\__init__.py to unittest\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\case.py to unittest\case.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\loader.py to unittest\loader.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\main.py to unittest\main.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\result.py to unittest\result.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\runner.py to unittest\runner.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\signals.py to unittest\signals.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\suite.py to unittest\suite.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\util.py to unittest\util.pyc
+skipping byte-compilation of c:\Python27\lib\urllib.py to urllib.pyc
+skipping byte-compilation of c:\Python27\lib\urlparse.py to urlparse.pyc
+skipping byte-compilation of c:\Python27\lib\uu.py to uu.pyc
+skipping byte-compilation of c:\Python27\lib\warnings.py to warnings.pyc
+skipping byte-compilation of c:\Python27\lib\weakref.py to weakref.pyc
+skipping byte-compilation of c:\Python27\lib\xml\__init__.py to xml\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\xml\etree\ElementPath.py to xml\etree\ElementPath.pyc
+skipping byte-compilation of c:\Python27\lib\xml\etree\ElementTree.py to xml\etree\ElementTree.pyc
+skipping byte-compilation of c:\Python27\lib\xml\etree\__init__.py to xml\etree\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\xml\etree\cElementTree.py to xml\etree\cElementTree.pyc
+skipping byte-compilation of c:\Python27\lib\xml\parsers\__init__.py to xml\parsers\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\xml\parsers\expat.py to xml\parsers\expat.pyc
+skipping byte-compilation of c:\Python27\lib\zipfile.py to zipfile.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\_elementtree.py to _elementtree.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\_hashlib.py to _hashlib.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\_socket.py to _socket.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\_ssl.py to _ssl.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\bz2.py to bz2.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\pyexpat.py to pyexpat.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\select.py to select.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\unicodedata.py to unicodedata.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\wx._controls_.py to wx\_controls_.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\wx._core_.py to wx\_core_.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\wx._gdi_.py to wx\_gdi_.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\wx._misc_.py to wx\_misc_.pyc
+byte-compiling c:\test\wx\Data_load\build\bdist.win32\winexe\temp\wx._windows_.py to wx\_windows_.pyc
+*** copy extensions ***
+*** copy dlls ***
+copying c:\Python27\lib\site-packages\py2exe\run_w.exe -> c:\test\wx\Data_load\dist\DataImport.exe
+The following modules appear to be missing
+['ElementC14N', 'Image', 'PIL', '_scproxy', '_sysconfigdata', 'excel_process', 'jdcal', 'lxml.etree', 'openpyxl.cell.Cell', 'openpyxl.cell.column_index_from_string', 'openpyxl.chartsheet.Chartsheet', 'openpyxl.comments.Comment', 'openpyxl.descriptors.Alias', 'openpyxl.descriptors.Bool', 'openpyxl.descriptors.Descriptor', 'openpyxl.descriptors.Float', 'openpyxl.descriptors.Integer', 'openpyxl.descriptors.MatchPattern', 'openpyxl.descriptors.Min', 'openpyxl.descriptors.MinMax', 'openpyxl.descriptors.NoneSet', 'openpyxl.descriptors.Set', 'openpyxl.descriptors.String', 'openpyxl.descriptors.Typed', 'openpyxl.workbook.DocumentProperties', 'openpyxl.workbook.Workbook', 'openpyxl.worksheet.ColumnDimension', 'openpyxl.worksheet.RowDimension', 'openpyxl.worksheet.Worksheet', 'openpyxl.worksheet.rows_from_range', 'tests.KEEP_VBA', 'utils.SHEETRANGE_RE', 'utils.quote_sheetname', 'utils.rows_from_range']
+
+*** binary dependencies ***
+Your executable(s) also depend on these dlls which are not included,
+you may or may not need to distribute them.
+
+Make sure you have the license if you distribute any of them, and
+make sure you don't distribute files belonging to the operating system.
+
+   OLEAUT32.dll - C:\windows\system32\OLEAUT32.dll
+   USER32.dll - C:\windows\system32\USER32.dll
+   COMCTL32.dll - C:\windows\system32\COMCTL32.dll
+   SHELL32.dll - C:\windows\system32\SHELL32.dll
+   ole32.dll - C:\windows\system32\ole32.dll
+   WINMM.dll - C:\windows\system32\WINMM.dll
+   WSOCK32.dll - C:\windows\system32\WSOCK32.dll
+   COMDLG32.dll - C:\windows\system32\COMDLG32.dll
+   ADVAPI32.dll - C:\windows\system32\ADVAPI32.dll
+   GDI32.dll - C:\windows\system32\GDI32.dll
+   WS2_32.dll - C:\windows\system32\WS2_32.dll
+   WINSPOOL.DRV - C:\windows\system32\WINSPOOL.DRV
+   CRYPT32.dll - C:\windows\system32\CRYPT32.dll
+   KERNEL32.dll - C:\windows\system32\KERNEL32.dll
+   RPCRT4.dll - C:\windows\system32\RPCRT4.dll

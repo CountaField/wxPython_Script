@@ -1,0 +1,30 @@
+from Oracle_connection import Gsrdb_Conn
+import numpy as np
+import matplotlib.pyplot as plt
+db = Gsrdb_Conn('gsrdba', 'oracle', 'gsrdb')
+cur=db.Sql("select production_date,casing_pressure from aux_5min_data_keep_15day where wellid='SN0055-06' and production_date between to_date('2016/03/20','yyyy/mm/dd') and to_date('2016/03/25','yyyy/mm/dd')")
+prod_list=[]
+for id in cur.fetchall():
+    prod_list.append(id[1])
+
+
+
+freq=np.fft.fftfreq(len(prod_list))
+result=np.fft.fft(prod_list)
+'''plt.plot(result,freq)
+pltshow()'''
+for x in result:
+    print(x)
+
+
+
+
+
+'''import numpy as np
+import matplotlib.pyplot as plt
+t = np.arange(256)
+sp = np.fft.fft(np.sin(t))
+freq = np.fft.fftfreq(t.shape[-1])
+plt.plot(freq, sp.real, freq, sp.imag)
+
+plt.show()'''

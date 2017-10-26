@@ -1,0 +1,13 @@
+___________________________________________________________________
+|                                                                 |
+|        GSR DATABASE PRODUCTION DATA LOAD                        |     
+|                                                                 |
+|_________________________________________________________________|
+
+This script is for PRODUCTION DATA LOADING of our great GSR database.
+If you are first time to use this script.
+Please read manual before use.
+When you get error message which you do not know how to process,
+Please contact Xubo or Benoit Jaffres.
+  
+
